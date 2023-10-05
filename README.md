@@ -92,3 +92,48 @@ Ex3. Given a list of names, filter out the names that start with the letter "A"
 
 Ex4. Given a list of strings, filter out the strings with a length greater (lớn) than 5.
 
+# String 
+
+Ex1. Write a Python program to get the characters at a given index in a string
+
+Ex2. Write a Python program to get a substring (chuỗi con) from a given string by slicing (cắt)
+
+Ex3. Write a Python program to reverse (đảo ngược) a string by slicing 
+
+Ex4: Write a Python program to count the occurrences (lần xuất hiện) of a specific character in a string. 
+
+Ex5: Write a Python program to replace all occurrences of a specific character in a string
+
+Ex6: Write a Python program to split into a list of word 
+
+Ex7: Write a Python program to join elements of a list into a string 
+
+Ex8: Write a Python program o capitalize the first letter of each word in a string
+
+Ex9: Write a Python program to check if a string starts with a specified prefix (tiền tố) 
+
+Tiền tố là một chuỗi con phía đầu của chuỗi chính
+
+Ex10: Write a Python program to check if a string ends with a specified suffix (hậu tố)
+
+# DICTIONARY
+
+Ex1: Write a Python program to add a key - value pair (Cặp) to a dictionary
+
+Ex2: Write a Python program to access a value in a dictionary using its key 
+
+Ex3: Write a Python program to iterate over a dictionary and print its key and value 
+
+Ex4: Write a Python program to check if a key exits in a dictionary
+
+Ex5: Write a Python program to remove a key-value pair from a dictionary
+
+Ex6: Write a Python program to merge two dictionaries
+
+Ex7: Write a Python program to find the maximum value in a dictionary
+
+Ex8: Write a Python program to sort a dictionary by its values in ascending order
+
+Ex9: Write a Python program to create a dictionary from a list keys and single values
+
+Ex10: Write a Python program to find the common keys between two dictionaries
