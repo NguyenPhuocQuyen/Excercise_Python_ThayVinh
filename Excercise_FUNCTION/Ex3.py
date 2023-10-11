@@ -1,4 +1,3 @@
-import math 
 def calculate_list():
     number_list =[]
     number = int(input("Please enter a value list: "))

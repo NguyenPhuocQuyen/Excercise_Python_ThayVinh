@@ -137,3 +137,24 @@ Ex8: Write a Python program to sort a dictionary by its values in ascending orde
 Ex9: Write a Python program to create a dictionary from a list keys and single values
 
 Ex10: Write a Python program to find the common keys between two dictionaries
+
+# SET 
+Ex1: Write a Python function that takes two sets as arguments and returns a new set containing the elements that are common (chung) to both sets 
+
+Ex2: Write a Python function that takes a set as an argument and returns a new set containing the unique elements in the original set in reversed order
+
+Ex3: Write a Python function that takes two sets as an argument and returns a new set containing the elements that are present in the first set but not in the second set
+
+Ex4: Write a Python function that takes a list of sets as an argument and returns a new set containing the elements that are present in all sets 
+
+Ex5: Write a Python function that takes two sets as an argument and returns a new set containing the elements that are exclusive to each set (i.e., present in one set not in the other)
+
+Ex6: Write a Python function that takes a set and a number as arguments and returns a new set containing all possible subsets (tập hợp con) of the original set that have a length equal to or less than the given number. 
+
+Ex7: Write a Python function that takes two sets as arguments and returns True if one set is a subset of the other, and False otherwise.
+
+Ex8: Write a Python function that takes a set and returns True if all the elements in the set are even numbers, and False otherwise.
+
+EX9: Write a Python function that takes a set and returns True if there are no repeated elements in the set, and False otherwise.
+
+Ex10: Write a Python function that takes two sets as a argument and returns True if the two set disjoint (i.e, have no common elements), and False otherwise.
